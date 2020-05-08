@@ -4,7 +4,6 @@ This program will solve a problem for people who dont know how to make secure pa
 
 # How it was created
 The program was created using 
-  notepad++
-  python3
-  patience
-  knowledge
+  notepad++,
+  python3,
+  annnd knowledge.
